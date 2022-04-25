@@ -1,0 +1,19 @@
+:root {
+    /* Background */
+    --main-background: var(--white);
+
+    /* Text */
+    --main-text: var(--black);
+    --link-text: var(--gray);
+
+    /* Color(s) */
+    --black: #000;
+    --gray: #262626;
+    --ash: #333;
+    --light-ash: #616161;
+    --pale: #CCCCCC;
+    --whitesmoke: #F4F4F4;
+    --whitesmoke2: #F2F2F2;
+    --white: #FFF;
+    --dark-skyblue: #0067B8;
+}
